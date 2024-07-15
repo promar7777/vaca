@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: #CCC 
+    
+}
+
+body{
+    font-family: 'Times New Roman', Times, serif;
+    text-size-adjust: 12px;
+    
+
+}
+
+h2{
+    
+    font-family: "Lugrasimo", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+div{
+    text-align: center;
+    
+    width: 200px;
+    border-style: solid;
+    padding: 2px 4px;
+
+}
+ header h2 {
+    background-color: #cccccc;
+
+ }
+
+
+
+

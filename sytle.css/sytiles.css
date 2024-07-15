@@ -1,0 +1,25 @@
+ header h2{
+    color: aliceblue;
+    background-color: gainsboro;
+    padding: 8px;
+    text-align: center;
+    background-size: 25px;
+    
+    
+
+}
+tbody p{
+    font-style: italic;
+    text-align: justify;
+    padding: 8px;
+    text-align: center;
+}
+foot p{
+    color: aliceblue;
+    background-color: gainsboro;
+    padding: 8px;
+    text-align: center;
+}
+p{
+    text-align: center;
+}
